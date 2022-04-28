@@ -1,2 +1,8 @@
 link para download do git: https://git-scm.com/downloads
 O GIT Bash é um terminak extendido para otimizar o uso do GIT
+
+git clone linkDoRepositorio
+cd caminhoDoDiretório
+git add . //adiciona novo item no controle de versão local
+git commit -m "anotações importantes sobre o commit"
+git push origin main //manda a alteração para o repositório remoto
